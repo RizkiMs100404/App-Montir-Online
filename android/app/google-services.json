@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471113103239",
+    "project_id": "app-montir",
+    "storage_bucket": "app-montir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471113103239:android:456f5e8a3f5dd3c0ea0522",
+        "android_client_info": {
+          "package_name": "com.example.app_montir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHieYsYEusrZXiB9XQb5EuMIDY519_T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
